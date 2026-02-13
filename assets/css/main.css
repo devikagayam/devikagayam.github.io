@@ -3172,3 +3172,15 @@ section,
 .starter-section {
   /* Add your styles here */
 }
+.stat-number-wrap {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 2px;
+  white-space: nowrap;
+}
+
+.plus {
+  display: inline-block;
+  line-height: 1;
+  font-weight: 700;
+}
